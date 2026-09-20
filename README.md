@@ -53,14 +53,25 @@ Return to your repository page on GitHub.com and refresh your browser. You shoul
 
 PART 2: Version Control Glossary
 Branch: An independent, parallel line of development within a repository. Branches allow developers to build new features or experiment without breaking the main, working codebase.
+
 Clone: The action of downloading a complete copy of a remote repository from the cloud (like GitHub) directly to your local computer.
+
 Commit: A saved snapshot of your project files at a specific point in time. It always includes a brief text message explaining what modifications were made.
+
 Fetch: Downloading the latest data and commit history from a remote repository to see what others have done, without actually merging those changes into your current working files.
+
 GIT: A widely used, free, and open-source distributed version control system designed to track file modifications and coordinate multiple developers working on the same project.
+
 GitHub: A cloud-based hosting platform for Git repositories. It provides a visual interface and collaborative tools like issue tracking, project boards, and pull requests.
+
 Merge: The process of taking the code changes from one branch and integrating them into another branch.
+
 Merge Conflict: An issue that triggers when Git cannot figure out how to automatically combine changes because two people edited the exact same line of code in conflicting ways. The developer must manually choose which code to keep.
+
 Pull: A combination command that both downloads (fetches) the latest changes from a remote repository and immediately integrates (merges) them into your active local branch.
+
 Push: The act of uploading your locally saved commits up to a remote repository (like GitHub) so that the rest of your team can see and access them.
+
 Remote: A version of your project repository that is hosted externally on a server (e.g., GitHub), acting as a central hub to push to and pull from.
+
 Repository (Repo): A specific storage directory that holds all of your project's files, folders, and the entire historical timeline of changes tracked by Git.
